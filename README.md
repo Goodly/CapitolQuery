@@ -14,7 +14,7 @@ Ideal contributors will be adept at coding in python and/or R, and writing techn
 
 To begin contributing:
 
-  1. Read the Statement of Work document.
-  2. Email Nick to let him know what you would like to work on.
-  3. Request access to our files at https://drive.google.com/drive/folders/0B7dPnKIP7WrQdUtLeFlFenpsZDA
+  1. Read the Statement of Work document: 'SSRC_Goodly_SoW_Funded.pdf'
+  2. Email Nick to let him know what you would like to work on: nickbadams [at] gmail.com
+  3. Request access to our files at: https://drive.google.com/drive/folders/0B7dPnKIP7WrQdUtLeFlFenpsZDA
 
